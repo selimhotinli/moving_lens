@@ -1,2 +1,2 @@
 # moving_lens
-real space snr forecast for the moving lens effect
+This rep is for the code related to the real space snr forecast for the moving lens effect. 
