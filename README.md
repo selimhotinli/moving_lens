@@ -1,2 +1,3 @@
 # moving_lens
-This rep is for the code related to the real space snr forecast for the moving lens effect. 
+Code and data will be uploaded by February 2024 after submission to journal. 
+Please email shotinli@perimeterinstitite.ca to have access before this time.
